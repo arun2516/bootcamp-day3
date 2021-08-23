@@ -1,0 +1,4 @@
+resume ={Name:"arun pandian",Education:{degree:"ME-Industrial Engineering",college:"anna university-college of engineering,guindy",CGPA:7.5},native:"aruppukottai",
+skills:["lean-six sigma","facility planning", "material handling", "production control", "inventory control"],
+language:["english","tamil"],projects:["efficiency improvement of plantlayot using material handling techniques","corrosion analysis on aluminium using taguchi method"],
+experience:"5 months as a production engineer in TALBROS private limited"};
